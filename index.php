@@ -31,7 +31,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to My Beautiful PHP Frontend!</h1>
+        <h1>Welcome to My Azure AppService PHP Frontend!</h1>
         <p>This is a simple example of a PHP frontend.</p>
         <p>Current date and time: <?php echo date("Y-m-d H:i:s"); ?></p>
     </div>
